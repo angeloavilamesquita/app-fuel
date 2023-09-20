@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeiroProjetoAndroid</string>
+
+    <string name="label_gasoline">Gasolina</string>
+    <string name="label_alcohol">Álcool</string>
+    <string name="label_title_app">ADS Combustível APP</string>
+
+    <string name="hint_typing_gasoline_price">Digite o valor da gasolina</string>
+    <string name="hint_typing_alcohol_price">Digite o valor do álcool</string>
+    <string name="label_button_choose_fuel">Escolher combustivel</string>
+
+    <string name="toast_empty_fields">Todos os campos devem ser preenchidos!!!</string>
+</resources>
